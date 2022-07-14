@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RetrofitAssignment</string>
+    <string name="rent">Rent</string>
+    <string name="buy">Buy</string>
+    <string name="all_type">All type</string>
+    <string name="xin_chao_viet_nam">Xin chao viet nam</string>
 </resources>
